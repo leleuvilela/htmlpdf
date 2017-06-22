@@ -3,6 +3,7 @@
     "description": "biblioteca html para pdf",
     "type": "library",
     "keywords": ["pdf","html"],
+    "license" : "MIT",
     "authors": [
         {
             "name": "Vinicius Vilela",
