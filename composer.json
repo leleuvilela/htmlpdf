@@ -1,0 +1,12 @@
+{
+    "name": "uzer/wkhtmltopdf",
+    "description": "biblioteca html para pdf",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Vinicius Vilela",
+            "email": "viniciusvilela19@gmail.com"
+        }
+    ],
+    "require": {}
+}
